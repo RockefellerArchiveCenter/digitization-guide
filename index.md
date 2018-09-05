@@ -27,6 +27,7 @@ For PDF or TIFF/JPEG requests, scans should be saved into a folder titled with t
 The scan resolution should be set to one of the following recommendations:
 **Textual materials**: 300-400 dpi
 **Photographic materials**: 400-600 dpi
+
 ---
 ## After Scanning
 ---
