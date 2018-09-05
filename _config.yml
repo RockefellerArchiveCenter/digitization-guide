@@ -1,0 +1,8 @@
+public: false
+type: "docs"
+tags:
+  - "digitization"
+title: "Digitization Guide"
+description: "Digitization practices and procedures for the RAC staff"
+pages:
+  - ["Digitization Guide", "index"]
