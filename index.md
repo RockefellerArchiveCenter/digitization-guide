@@ -6,7 +6,7 @@ title: "Rockefeller Archive Center Digitization Guide"
 
 ---
 ## Before Scanning
----
+
 In order to minimize damage and wear and tear to items and to utilize digitized materials at a later date, *everything in a folder, whether textual or photographic, should be scanned*.
 
 Currently, there are three possible scanners that can be used:
@@ -28,9 +28,8 @@ The scan resolution should be set to one of the following recommendations:
 **Textual materials**: 300-400 dpi
 **Photographic materials**: 400-600 dpi
 
----
 ## After Scanning
----
+
 ### Naming Files
 Begin with the folder’s ref ID as a prefix. You can find this in the ArchivesSpace application or on the Aeon request (*if there is a Ref ID on Aeon be sure to double check that it is the correct Ref ID for the folder being scanned*). Each object in a folder should have the Ref ID, followed by an underscore, and then an escalating three-digit number for each scan in the folder.
 - Example: d47b6d80713746a4a91a2f0afee6fdea_001, d47b6d80713746a4a91a2f0afee6fdea_002
@@ -58,9 +57,9 @@ After scanning, copies of Master files should be inserted into the Master Edited
 - The images are not skewed or illegible
 - There are not any cropping issues
 
-Adobe Photoshop can be used to create derivative (Master Edited) files. ***Remember that Master Edited files should end in “_me”***. 
+Adobe Photoshop can be used to create derivative (Master Edited) files. **Remember that Master Edited files should end in “_me”**. 
 
-Service Edited files represent the form of the digitized TIFF files that researchers and/or donors will access. PDF and JPEG access files should always be derived from the Master Edited images. Adobe Photoshop can also be used to create JPEGs access files. Adobe Acrobat DC can be used to create PDF access files. ***Remember that Service Edited files should end in "_se"***. 
+Service Edited files represent the form of the digitized TIFF files that researchers and/or donors will access. PDF and JPEG access files should always be derived from the Master Edited images. Adobe Photoshop can also be used to create JPEGs access files. Adobe Acrobat DC can be used to create PDF access files. **Remember that Service Edited files should end in "_se"**. 
 
 ### Saving Files
 In the case of requests for researchers and donors, after the creation of the Service Edited files, a copy of the PDF or TIFF/JPEG should be saved on the W: drive. A folder labeled with the researcher’s/donor's name and transaction number (if applicable) should be created. A sub-folder entitled by the Aeon transaction number should then be created within this folder and the requested file  placed into this folder. 
