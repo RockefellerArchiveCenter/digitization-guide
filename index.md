@@ -2,7 +2,7 @@
 
 layout: docs
 
-title: "Rockefeller Archive Center Digitization Guide" 
+title: "Digitization Guide" 
 
 ---
 ## Before Scanning
