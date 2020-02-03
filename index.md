@@ -14,7 +14,7 @@ Currently, there are three possible scanners that can be used:
 * Zeutschel 1200 for oversized materials (can also be used for standard sized materials)
 * Epson Flatbed for photographs
 
-A target from the Print Request option on Aeon should be created. This will be used as a citation sheet and should include Collection Name/Title, Record Group, Finding Aid number, Series, Box Number, Folder number and title, and date if available. **Be sure to check that the folder number/title on the citation sheet is corresponds to the folder being scanned**.
+A target from the Print Request option on Aeon should be created. This will be used as a citation sheet and should include Collection Name/Title, Record Group, Finding Aid number, Series, Box Number, Folder number and title, and date if available. **Be sure to check that the folder number/title on the citation sheet corresponds to the folder being scanned**.
 
 For PDF or TIFF/JPEG requests, scans should be saved into a folder titled with the researcher/donor’s name and transaction number on the X drive (X:\Projects\Reference Digitization). Within this folder, three sub-folders should be created: Master, Master Edited, and Service Edited. These three folders should be created for each folder scanned: 
 
@@ -24,8 +24,8 @@ For PDF or TIFF/JPEG requests, scans should be saved into a folder titled with t
 
 **Service Edited**: Compressed, web-accessible, service file derived from the master edited file. For textual materials, service edited files should be in PDF format and for photographic materials, these files should be in JPEG format.
 
-The scan resolution should be set to one of the following recommendations:
-**Textual materials**: 300-400 dpi
+The scan resolution should be set to one of the following recommendations:  
+**Textual materials**: 300-400 dpi  
 **Photographic materials**: 400-600 dpi
 
 ## After Scanning
@@ -39,18 +39,18 @@ Photographs with information on the reverse side should include reference to Ver
 
 Master edited and access should include “_me” for Master Edited or “_se” for Service Edited at the end of the file.
 
-*Textual materials*:
-Master: 09bd143b788b4608b7fad28ac179922e_001.tif
-Master Edited: 09bd143b788b4608b7fad28ac179922e_001_me.tif
+#### Textual materials
+Master: 09bd143b788b4608b7fad28ac179922e_001.tif  
+Master Edited: 09bd143b788b4608b7fad28ac179922e_001_me.tif  
 Service Edited: 09bd143b788b4608b7fad28ac179922e_se.pdf
 
-*Photographic materials*:
-Master: b13ae3ee770c983cf869d77b17120689_001r.tif
-Master Edited: b13ae3ee770c983cf869d77b17120689_001r_me.tif
+#### Photographic materials
+Master: b13ae3ee770c983cf869d77b17120689_001r.tif  
+Master Edited: b13ae3ee770c983cf869d77b17120689_001r_me.tif  
 Service Edited: b13ae3ee770c983cf869d77b17120689_001r_se.jpg
 
 ### Quality Check and Creating Derivatives
-After scanning, copies of Master files should be inserted into the Master Edited folder (Master files should not be edited and should be kept the same) and a quality check should be performed. This ensures that the digitized items accurately represent the original materials. When completely a quality check, one should make sure that:
+After scanning, copies of Master files should be inserted into the Master Edited folder (Master files should not be edited) and a quality check should be performed. This ensures that the digitized items accurately represent the original materials. When completing a quality check, you should make sure that:
 - Files are saved in the correct format
 - Files are saved in the correct location
 - The image count and file names are accurate
@@ -59,7 +59,7 @@ After scanning, copies of Master files should be inserted into the Master Edited
 
 Adobe Photoshop can be used to create derivative (Master Edited) files. **Remember that Master Edited files should end in “_me”**. 
 
-Service Edited files represent the form of the digitized TIFF files that researchers and/or donors will access. PDF and JPEG access files should always be derived from the Master Edited images. Adobe Photoshop can also be used to create JPEGs access files. Adobe Acrobat DC can be used to create PDF access files. **Remember that Service Edited files should end in "_se"**. 
+Service Edited files represent the form of the digitized TIFF files that researchers and/or donors will access. PDF and JPEG access files should always be derived from the Master Edited images. Adobe Photoshop can also be used to create JPEG access files. Adobe Acrobat DC can be used to create PDF access files. **Remember that Service Edited files should end in "_se"**. 
 
 ### Saving Files
 In the case of requests for researchers and donors, after the creation of the Service Edited files, a copy of the PDF or TIFF/JPEG should be saved on the W: drive. A folder labeled with the researcher’s/donor's name and transaction number (if applicable) should be created. A sub-folder entitled by the Aeon transaction number should then be created within this folder and the requested file  placed into this folder. 
