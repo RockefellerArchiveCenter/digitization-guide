@@ -1,6 +1,8 @@
 public: false
 type: "docs"
-category: "reference and outreach"
+category: 
+  - "reference and outreach"
+  - "preservation"
 tags:
   - "workflow"
 title: "Digitization Guide"
