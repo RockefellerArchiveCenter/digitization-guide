@@ -5,12 +5,14 @@ layout: docs
 title: "Digitization Guide" 
 
 ---
+This Digitization Guide was created for the purposes of establishing standards at the Rockefeller Archive Center for all digitization activities undertaken by RAC staff and by external digitization vendors. The development of this Digitization Guide was prompted by the organizational decision to scan archival materials at an aggregate level, e.g., the folder level, rather than scan individual items. The intent is to leverage the RAC’s already existing archival description to serve as the necessary metadata for managing the digitized materials. As a result, the original materials need only be digitized once, and the digital surrogates can easily be made available to future requestors or presented through an online discovery and display system.
+
 ## Before Scanning
 
 In order to minimize damage and wear and tear to items and to utilize digitized materials at a later date, *everything in a folder, whether textual or photographic, should be scanned*.
 
 Currently, there are three possible scanners that can be used:
-*   Zeutschel Zeta for standard sized items (8x11, 11x14)
+* Zeutschel Zeta for standard sized items (8x11, 11x14)
 * Zeutschel 1200 for oversized materials (can also be used for standard sized materials)
 * Epson Flatbed for photographs
 
@@ -40,7 +42,7 @@ Photographs with information on the reverse side should include reference to Ver
 Master edited and access should include “_me” for Master Edited or “_se” for Service Edited at the end of the file.
 
 #### Textual materials
-Master: 09bd143b788b4608b7fad28ac179922e_001.tif  
+Master: 09bd143b788b4608b7fad28ac179922e_001.tif
 Master Edited: 09bd143b788b4608b7fad28ac179922e_001_me.tif  
 Service Edited: 09bd143b788b4608b7fad28ac179922e_se.pdf
 
