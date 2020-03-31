@@ -1,0 +1,11 @@
+public: true
+type: "docs"
+category: 
+  - "reference and outreach"
+  - "preservation"
+tags:
+  - "workflow"
+title: "Digitization Guide"
+description: "Digitization practices and procedures for the RAC staff"
+pages:
+  - ["Digitization Guide", "index"]
