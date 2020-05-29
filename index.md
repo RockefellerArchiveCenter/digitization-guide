@@ -18,7 +18,7 @@ Currently, there are three possible scanners that can be used:
 
 A target from the Print Request option on Aeon should be created. This will be used as a citation sheet and should include Collection Name/Title, Record Group, Finding Aid number, Series, Box Number, Folder number and title, and date if available. **Be sure to check that the folder number/title on the citation sheet corresponds to the folder being scanned**.
 
-For PDF or TIFF/JPEG requests, scans should be saved into a folder titled with the researcher/donor’s name and transaction number on the X drive (X:\Projects\Reference Digitization). Within this folder, two sub-folders should be created: Master and Service Edited. These three folders should be created for each folder scanned: 
+For PDF or TIFF/JPEG requests, scans should be saved into a folder titled with the researcher/donor’s name and transaction number on the X drive (X:\Projects\Reference Digitization). Within this folder, two sub-folders should be created: Master and Service Edited. 
 
 **Master**: Uncompressed, high-resolution, original master files in TIFF format. In the past, Master Edited files were created when images needed to be edited (de-skewed, cropped, etc.). However, since editing of every scanned image is rarely undertaken, creating Master edited files became redundant. Master files can be edited or changed if necessary.
 
