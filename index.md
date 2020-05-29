@@ -35,7 +35,7 @@ Begin with the folder’s ref ID as a prefix. You can find this in the ArchivesS
 - Example: d47b6d80713746a4a91a2f0afee6fdea_001, d47b6d80713746a4a91a2f0afee6fdea_002
 
 #### Textual materials
-Master: 09bd143b788b4608b7fad28ac179922e_001.tif
+Master: 09bd143b788b4608b7fad28ac179922e_001.tif     
 Service Edited: 09bd143b788b4608b7fad28ac179922e.pdf
 
 #### Photographic materials
