@@ -50,7 +50,7 @@ After scanning, a quality check should be performed on the Master files. This en
 - The images are not skewed or illegible
 - There are not any cropping issues
 
-Adobe Photoshop can be used to edit files if necessary. 
+Adobe Photoshop can be used to modify files if editing is necessary. 
 
 Service Edited files represent the form of the digitized TIF files that researchers and/or donors will access. Adobe Photoshop can also be used to create JPEG access files. Adobe Acrobat DC can be used to create PDF access files. 
 
